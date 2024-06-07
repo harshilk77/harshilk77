@@ -1,3 +1,4 @@
+![logo](https://github.com/harshilk77/harshilk77/blob/main/Grey%20And%20White%20Modern%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Harshil Kanani</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
